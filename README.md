@@ -10,6 +10,8 @@ The final thing is to just a single command and user get TIC TAC TOE game runnin
 
 RUN : docker-compose up
 
+RUN : docker run -it tic_tac_toe-tic_tac_toe ./game.exe
+
 
 # MANUAL SETUP
 
